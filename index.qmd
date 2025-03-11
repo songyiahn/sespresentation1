@@ -480,7 +480,8 @@ weight2 %>%
   )
 ```
 
--   colors not instinctive to in grasp the meaning?
+-   colors not intuitive to in grasp the meaning?
+-   how finely should I divide the SES groups?
 :::
 
 ::: incremental
